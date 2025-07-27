@@ -1,7 +1,6 @@
 #  CodeAlpha - Task 2: EDA
 ✅ **Internship Task:** EDA  
-✅ **Intern Name:** Ella Hamdi  
-✅ **Tools:** Python, Requests, BeautifulSoup, Pandas  
+✅ **Intern Name:** Ella Hamdi   
 ✅ **Company:** CodeAlpha - [www.codealpha.tech](https://www.codealpha.tech)
 ## 📌 Objectives
 
